@@ -1,0 +1,9 @@
+{
+  "name": "Salata", 
+  "symbol": "SLTA",
+  "uri": "https://raw.githubusercontent.com/SalataToken/public-assets/main/solana-metadata.json",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
